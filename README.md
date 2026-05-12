@@ -1,3 +1,5 @@
+WIP - need to add a logging system + mariadb integration
+
 
 > `displayInfo("IP Address", ipData.YourFuckingIPAddress);`
 #### **Gets the IP address of target**
