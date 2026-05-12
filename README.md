@@ -1,18 +1,18 @@
 `displayInfo("IP Address", ipData.YourFuckingIPAddress);`
-Gets the IP address of target
+**Gets the IP address of target**
 
 `displayInfo("Country", locationData.country);`
-Gets Country from target
+**Gets Country from target**
 
 `displayInfo("Full Location", ipData.YourFuckingLocation);`
-Wraps every country, zip, region and city into a full location of the target
+**Wraps every country, zip, region and city into a full location of the target**
 
 `await displayInfo("Latitude", locationData.lat);
         await displayInfo("Longitude", locationData.lon);`
-Displays targets coords
+**Displays targets coords**
 
 `displayInfo("ISP", locationData.isp);`
-Displays targets ISP provider
+**Displays targets ISP provider**
 
 `await displayInfo("Autonomous System", locationData.as);
         await displayInfo("Browser Name", browserData.name);
@@ -25,5 +25,5 @@ Displays targets ISP provider
         await displayInfo("Screen Height", screen.height, 'px');` 
 
         
-Displays a fuck ton of specs from the target to identify what device he visited your domain from.
+**Displays a fuck ton of specs from the target to identify what device he visited your domain from.**
         
