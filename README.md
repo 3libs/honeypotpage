@@ -1,4 +1,4 @@
-WIP - need to add a logging system + mariadb integration
+# WIP - need to add a logging system + mariadb integration
 
 
 > `displayInfo("IP Address", ipData.YourFuckingIPAddress);`
